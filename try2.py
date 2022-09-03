@@ -1,6 +1,5 @@
 #
 # Text based snake and ladder game
-# Author - https://www.pythoncircle.com
 #
 
 import time
